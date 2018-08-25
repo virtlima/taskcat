@@ -31,7 +31,7 @@ templates across AWS Regions
 Open the taskcat.yml file with and editor and update the filenames to match your need.
 
 example here:
-[taskcat.yml](https://raw.githubusercontent.com/aws-quickstart/taskcat/master/examples/sample-taskcat-project/ci/taskcat.yml)
+[taskcat.yml](https://github.com/aws-quickstart/taskcat/blob/develop/examples/sample-taskcat-project/ci/taskcat.yml)
 
 #### Example of taskcat.yml
     global:
